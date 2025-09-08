@@ -6,6 +6,9 @@ Practice these concepts:
    - Return values
    - Default arguments
    - *args and **kwargs
+   - Postional arguments
+   - Keyword arguments
+   - Arbitrary arguments
 
 2. Scope
    - Local vs Global variables
