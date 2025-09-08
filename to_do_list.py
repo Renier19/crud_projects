@@ -69,6 +69,7 @@ def to_do_delete():
             print("Task deleted successfully.")
         else:
             print("Task not found.")
+        break
     except ValueError:
         print("Invalid input.")
 
@@ -100,3 +101,4 @@ def main():
 
 
 main()
+
