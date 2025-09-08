@@ -19,6 +19,8 @@ Practice these concepts:
    - Basic list comprehension
    - Conditional list comprehension
    - Nested list comprehension
+   - if conditions inside a list
+   - expresion for value in iterable if condition
 
 4. Error Handling
    - try/except blocks
